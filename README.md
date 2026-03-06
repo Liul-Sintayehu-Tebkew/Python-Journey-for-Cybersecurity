@@ -27,8 +27,8 @@ I'm learning cybersecurity and using Python to build tools along the way. This r
 
 <div align="center">
   
-🔗 <a href="https://www.linkedin.com/in/liul-sintayehu/">Connect with me on LinkedIn</a>
+My LinkedIn account <a href="https://www.linkedin.com/in/liul-sintayehu/">Connect with me on LinkedIn</a>
 
 </div>
 
-Happy hacking! 🐍💻
+
