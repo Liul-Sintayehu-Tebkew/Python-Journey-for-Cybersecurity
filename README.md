@@ -1,6 +1,6 @@
 # Python for Cybersecurity Journey
 
-Hey there! 👋
+Hello, my name is Liul Sintayehu Tebkew
 
 I'm learning cybersecurity and using Python to build tools along the way. This repo is where I keep all my scripts, projects, and experiments.
 
@@ -13,18 +13,15 @@ I'm learning cybersecurity and using Python to build tools along the way. This r
 - **Forensics** – file analyzers, log parsers
 - **Automation** – because who likes doing things manually?
 
-## Stuff I use
+## what I use
 
-- Python 3
-- Libraries: scapy, requests, paramiko, hashlib, socket
-- Lots of trial and error 😅
+- Python 
+- Modules: secrets, flask
+
 
 ## What I'm learning next
 
-- [ ] More web app hacking tools
-- [ ] Better password crackers
-- [ ] Network analysis scripts
-- [ ] Malware analysis basics
+- [ ] Cryptographic Approaches to secure data
 
 ---
 
