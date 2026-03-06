@@ -27,7 +27,7 @@ I'm learning cybersecurity and using Python to build tools along the way. This r
 
 <div align="center">
   
-My LinkedIn account <a href="https://www.linkedin.com/in/liul-sintayehu/">Connect with me on LinkedIn</a>
+My LinkedIn account <a href="https://www.linkedin.com/in/liul-sintayehu/">Liul Sintayehu Tebkew</a>
 
 </div>
 
